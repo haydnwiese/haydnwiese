@@ -2,6 +2,8 @@
 
 - 📚 I’m currently studying Systems Design Engineering at the University of Waterloo
 - 📫 How to reach me: hjwiese@uwaterloo.ca
+- [More about me](https://haydnwiese.com)
+
 <!--
 **haydnwiese/haydnwiese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
