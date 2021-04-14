@@ -1,7 +1,7 @@
 ### Hi there, I'm Haydn 👋
 - I am a developer currently working at [Connected](https://www.connected.io/)! 
-- I study Systems Design Engineering at the University of Waterloo
-- How to reach me: hjwiese@uwaterloo.ca
+- 📚 I study Systems Design Engineering at the University of Waterloo
+- 📫 How to reach me: hjwiese@uwaterloo.ca
 <!-- [More about me](https://haydnwiese.com)
 
 <!--
